@@ -20,8 +20,7 @@ Es un motor de base de datos.
 * SELECT version();: Mostrará la versión de PostgreSQL instalada.
 * \g: Mostrar lista de comandos que se estan ejecutando en la base de datos actual.
 * \timing: Mostrará el tiempo que tarda cada comando en ejecutarse.
-## Archivos de configuración
-Archivos Configuracion
+## Archivos de Configuración
 * postgresql.conf
 * pg_hba.conf
 * pg_ident.conf
